@@ -1,5 +1,9 @@
 <?php
 
+/**
+* @author Tiago Baldo <tgbaldo@gmail.com>
+*/
+
 class Fila
 {
 	protected $fila = [];
